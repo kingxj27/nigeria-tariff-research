@@ -1,0 +1,11 @@
+date,event,rate_pct,note
+2013-01-01,standard rice import duty+levy (historical baseline),70,10% duty + 60% levy at various points; already 70% as far back as 2013
+2019-08-01,partial land border closure (Benin),,
+2019-10-14,"full land border closure (Benin, Cameroon, Chad, Niger)",,rice and poultry explicitly targeted
+2020-12-16,partial border reopening,,rice and poultry remained formally banned despite reopening
+2023-01-01,rice tariff raised,60,"raised from 50% base rate per Businessday - exact 2023 date unconfirmed, distinct from the 70% combined duty+levy figure"
+2024-01-01,CBN customs duty benchmark FX rate raised (indirect duty increase),2.6,effective duty increase via FX benchmark change
+2024-07-15,150-day zero-duty/VAT-exempt window for husked brown rice + 5 other staples begins,0,"tied to 39.53% food inflation; strict eligibility (5yr+ company, 100 tonnes/day milling capacity)"
+2024-12-31,zero-duty window expires,,no confirmed extension into 2025 found
+2025-01-01,standard duty (post-window),70,10% duty + 60% levy - confirmed still current per trade.gov Sept 2025 update
+2025-01-01,integrated miller rate (backward integration proof),30,10% duty + 20% levy

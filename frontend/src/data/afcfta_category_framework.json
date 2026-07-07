@@ -1,0 +1,26 @@
+[
+  {
+    "category": "A",
+    "label": "non-sensitive",
+    "pct_tariff_lines_max": 90,
+    "liberalization_years_non_ldc": 5.0,
+    "liberalization_years_ldc": 10.0,
+    "description": "linear liberalization"
+  },
+  {
+    "category": "B",
+    "label": "sensitive",
+    "pct_tariff_lines_max": 7,
+    "liberalization_years_non_ldc": 10.0,
+    "liberalization_years_ldc": 13.0,
+    "description": "dismantling starts year 6"
+  },
+  {
+    "category": "C",
+    "label": "exclusion",
+    "pct_tariff_lines_max": 3,
+    "liberalization_years_non_ldc": null,
+    "liberalization_years_ldc": null,
+    "description": "permanently/long-term excluded; capped at 10% of intra-African import value; justifications include food security, national security, fiscal revenue, livelihood protection, industrialization"
+  }
+]

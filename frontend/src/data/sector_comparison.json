@@ -1,0 +1,29 @@
+[
+  {
+    "sector": "Refined petroleum",
+    "effective_tariff_2025_pct": 0.5,
+    "effective_tariff_label": "0.5%",
+    "primary_policy_tool": "Unilateral signaling (approved-then-suspended 15% duty, import license halts) rather than a standing tariff",
+    "afcfta_classification": "Unconfirmed - no source found",
+    "afcfta_confidence": "very low",
+    "outcome_summary": "Dangote Refinery ramp-up (85%+ utilization by mid-2025) is displacing imports faster than any tariff action; PMS import bill fell 42% in 2025"
+  },
+  {
+    "sector": "Automobiles",
+    "effective_tariff_2025_pct": 40.0,
+    "effective_tariff_label": "35-40%",
+    "primary_policy_tool": "Sustained tariff differential (0-10% for CKD/SKD kits vs 35-40% fully-built)",
+    "afcfta_classification": "Unconfirmed - indirect evidence only",
+    "afcfta_confidence": "low",
+    "outcome_summary": "Tariff wall has produced many licensed assemblers but only ~29% aggregate capacity utilization; protection without competitiveness"
+  },
+  {
+    "sector": "Rice/agriculture",
+    "effective_tariff_2025_pct": 70.0,
+    "effective_tariff_label": "70%",
+    "primary_policy_tool": "Sustained high tariff + intermittent import bans/waivers (2019 border closure, 2024 duty-free window)",
+    "afcfta_classification": "Likely Category B or C (sensitive/excluded)",
+    "afcfta_confidence": "medium-high",
+    "outcome_summary": "~70-76% self-sufficiency achieved but persistent large-scale smuggling shows the tariff wall is porous, not just protective"
+  }
+]

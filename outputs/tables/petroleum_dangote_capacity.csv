@@ -1,0 +1,9 @@
+date,metric,value,unit,note
+2023-05-22,inauguration,,,officially commissioned
+2024-01-01,operations_begin,,,began processing crude into diesel/jet fuel; exact January date unconfirmed
+2024-09-03,pms_output,25.0,million litres/day,initial PMS production
+2024-10-01,pms_output,35.0,million litres/day,ramped up
+2025-06-01,capacity_utilization,85.0,pct of 650000 bpd nameplate,approx Q1-Q2 2025
+2025-08-01,output,610000.0,bpd,
+2026-02-01,capacity_utilization,100.0,pct,outside core window - trailing context; also reported raised to 700000 bpd nameplate
+2026-02-01,pms_market_share,92.0,pct of daily domestic petrol supply,outside core window - trailing context

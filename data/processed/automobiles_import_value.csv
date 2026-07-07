@@ -1,0 +1,6 @@
+year,value_ngn_billion,series,yoy_pct,note
+2022,325.05,used_vehicle_imports,,
+2023,1063.0,used_vehicle_imports,226.46,Q2 2023 alone was N733.91bn (~69% of full year)
+2022,655.69,passenger_car_imports,,distinct NBS series from used_vehicle_imports - scope overlap not reconciled
+2023,1470.0,passenger_car_imports,124.7,
+2024,1260.0,passenger_car_imports,-14.3,"decline attributed to naira depreciation, inflation, shift to local second-hand market"

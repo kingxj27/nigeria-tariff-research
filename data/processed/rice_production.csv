@@ -1,0 +1,6 @@
+marketing_year,paddy_mmt,milled_mmt,source_series,note
+2022_2023,8.5,5.355,USDA_FAS,
+2023_2024,8.3,5.229,USDA_FAS,estimate
+2024_2025,7.7,4.851,USDA_FAS,"forecast; -7% attributed to insecurity, decreased govt support, inadequate mechanization"
+2020,8.4,,CARD_riceforafrica,"alternate series, not reconciled with USDA FAS"
+2024,9.14,,CARD_riceforafrica,alternate series shows rising production vs USDA's declining trend - unreconciled discrepancy

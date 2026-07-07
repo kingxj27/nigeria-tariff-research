@@ -1,0 +1,20 @@
+[
+  {
+    "sector": "rice/agriculture",
+    "likely_category": "C (exclusion) or B (sensitive)",
+    "confidence": "medium-high",
+    "evidence": "explicitly named on Nigeria's ~184-product exclusion list alongside flour, sugar, cement per Guardian Nigeria; corroborated by decades of unilateral import prohibition and 70% tariff"
+  },
+  {
+    "sector": "automobiles",
+    "likely_category": "unconfirmed - likely B or C",
+    "confidence": "low",
+    "evidence": "no direct source states category; indirect evidence only via historical 70% NAIDP duty and continent-wide unresolved rules of origin for autos"
+  },
+  {
+    "sector": "refined petroleum",
+    "likely_category": "unconfirmed",
+    "confidence": "very low",
+    "evidence": "no source - primary or secondary - found stating a category; regulated primarily via NMDPRA/PIA rather than AfCFTA tariff mechanisms"
+  }
+]

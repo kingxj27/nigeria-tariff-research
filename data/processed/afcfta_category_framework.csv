@@ -1,0 +1,4 @@
+category,label,pct_tariff_lines_max,liberalization_years_non_ldc,liberalization_years_ldc,description
+A,non-sensitive,90,5,10,linear liberalization
+B,sensitive,7,10,13,dismantling starts year 6
+C,exclusion,3,,,"permanently/long-term excluded; capped at 10% of intra-African import value; justifications include food security, national security, fiscal revenue, livelihood protection, industrialization"

@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2020,
+    "value_ngn_trillion": 2.01,
+    "yoy_pct": null,
+    "note": null,
+    "source": "Nairametrics 10 Mar 2025 historical table citing NBS"
+  },
+  {
+    "year": 2021,
+    "value_ngn_trillion": 4.56,
+    "yoy_pct": 126.9,
+    "note": null,
+    "source": "ditto"
+  },
+  {
+    "year": 2022,
+    "value_ngn_trillion": 7.71,
+    "yoy_pct": 69.1,
+    "note": null,
+    "source": "ditto"
+  },
+  {
+    "year": 2023,
+    "value_ngn_trillion": 7.51,
+    "yoy_pct": -2.6,
+    "note": "also reported as N7.5tn \"down 2.51%\" from N7.7tn in a separate Channels TV article citing NBS",
+    "source": "Nairametrics 10 Mar 2025 / Channels TV 29 Mar 2024"
+  },
+  {
+    "year": 2024,
+    "value_ngn_trillion": 15.42,
+    "yoy_pct": 105.3,
+    "note": "largely driven by 40.9% naira depreciation in 2024 not import volume increase",
+    "source": "Nairametrics 10 Mar 2025 citing NBS"
+  },
+  {
+    "year": 2025,
+    "value_ngn_trillion": 8.96,
+    "yoy_pct": -41.9,
+    "note": "driven by Dangote ramp-up displacing imports",
+    "source": "Businessday NG / Daily Trust citing NBS"
+  }
+]

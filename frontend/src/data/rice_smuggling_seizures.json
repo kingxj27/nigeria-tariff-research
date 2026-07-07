@@ -1,0 +1,23 @@
+[
+  {
+    "period": "2025_Q1",
+    "cases": 159.0,
+    "bags": 135474.0,
+    "value_ngn_million": 939.0,
+    "note": "rice was the single most-smuggled commodity that quarter, ahead of petroleum (61 cases) and narcotics (22 cases)"
+  },
+  {
+    "period": "2025_Jul29_Aug2",
+    "cases": null,
+    "bags": 823.0,
+    "value_ngn_million": null,
+    "note": "bags seized in coordinated patrols, Tongeji Creek/Moba Waterside/Badagry-Porto Novo Creek"
+  },
+  {
+    "period": "2025_Sep1_Oct9",
+    "cases": null,
+    "bags": null,
+    "value_ngn_million": 1990.0,
+    "note": "Customs Seme Area Command, Lagos-Abidjan corridor, includes rice among other contraband"
+  }
+]

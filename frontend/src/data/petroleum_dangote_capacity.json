@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2023-05-22",
+    "metric": "inauguration",
+    "value": null,
+    "unit": null,
+    "note": "officially commissioned"
+  },
+  {
+    "date": "2024-01-01",
+    "metric": "operations_begin",
+    "value": null,
+    "unit": null,
+    "note": "began processing crude into diesel/jet fuel; exact January date unconfirmed"
+  },
+  {
+    "date": "2024-09-03",
+    "metric": "pms_output",
+    "value": 25.0,
+    "unit": "million litres/day",
+    "note": "initial PMS production"
+  },
+  {
+    "date": "2024-10-01",
+    "metric": "pms_output",
+    "value": 35.0,
+    "unit": "million litres/day",
+    "note": "ramped up"
+  },
+  {
+    "date": "2025-06-01",
+    "metric": "capacity_utilization",
+    "value": 85.0,
+    "unit": "pct of 650000 bpd nameplate",
+    "note": "approx Q1-Q2 2025"
+  },
+  {
+    "date": "2025-08-01",
+    "metric": "output",
+    "value": 610000.0,
+    "unit": "bpd",
+    "note": null
+  },
+  {
+    "date": "2026-02-01",
+    "metric": "capacity_utilization",
+    "value": 100.0,
+    "unit": "pct",
+    "note": "outside core window - trailing context; also reported raised to 700000 bpd nameplate"
+  },
+  {
+    "date": "2026-02-01",
+    "metric": "pms_market_share",
+    "value": 92.0,
+    "unit": "pct of daily domestic petrol supply",
+    "note": "outside core window - trailing context"
+  }
+]

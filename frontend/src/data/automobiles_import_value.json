@@ -1,0 +1,37 @@
+[
+  {
+    "year": 2022,
+    "value_ngn_billion": 325.05,
+    "series": "used_vehicle_imports",
+    "yoy_pct": null,
+    "note": null
+  },
+  {
+    "year": 2023,
+    "value_ngn_billion": 1063.0,
+    "series": "used_vehicle_imports",
+    "yoy_pct": 226.46,
+    "note": "Q2 2023 alone was N733.91bn (~69% of full year)"
+  },
+  {
+    "year": 2022,
+    "value_ngn_billion": 655.69,
+    "series": "passenger_car_imports",
+    "yoy_pct": null,
+    "note": "distinct NBS series from used_vehicle_imports - scope overlap not reconciled"
+  },
+  {
+    "year": 2023,
+    "value_ngn_billion": 1470.0,
+    "series": "passenger_car_imports",
+    "yoy_pct": 124.7,
+    "note": null
+  },
+  {
+    "year": 2024,
+    "value_ngn_billion": 1260.0,
+    "series": "passenger_car_imports",
+    "yoy_pct": -14.3,
+    "note": "decline attributed to naira depreciation, inflation, shift to local second-hand market"
+  }
+]

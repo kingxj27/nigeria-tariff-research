@@ -1,0 +1,9 @@
+date,event,rate_pct,status,note
+2023-05-28,Finance Act 2023 - 0.5% levy on non-African imports (general, not petroleum-specific),0.5,implemented,applies to all non-African-sourced imports including refined products
+2023-05-29,Petrol subsidy officially declared removed,,implemented,pump price jumped from ~N185/litre to N488-555/litre
+2023-10-12,CBN FX unification into NFEM window (verified action date),,implemented,petroleum products were not among the historical 43-item FX-restricted list; effect on petroleum importers was indirect via naira depreciation
+2024-07-29,FEC approval enabling naira-denominated crude/refined product trade (legal basis for naira-for-crude),,implemented,
+2024-09-03,Dangote Refinery begins PMS production,,implemented,25 million litres/day initial; ramped to 35 million litres/day by Oct 2024
+2025-10-21,Tinubu approves 15% ad-valorem import duty on PMS/AGO ("Market-Responsive Tariffs Framework"),15,approved then suspended,legal basis Section 13 CETA
+2025-11-13,15% import duty suspended before effective date following industry pushback,15,suspended,never actually collected
+2026-03-11,NMDPRA halts new PMS import licences - local production meeting demand,,implemented (outside core window),trailing context only; shows trajectory toward import substitution

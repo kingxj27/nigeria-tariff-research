@@ -1,0 +1,22 @@
+[
+  {
+    "marketing_year": "2022_2023",
+    "import_mmt": 2.275,
+    "note": "MY basis; 2.0 MMT on TY basis"
+  },
+  {
+    "marketing_year": "2023_2024",
+    "import_mmt": 1.9,
+    "note": "MY basis; 2.0 MMT on TY basis"
+  },
+  {
+    "marketing_year": "2024_2025",
+    "import_mmt": 1.5,
+    "note": "forecast, -21% YoY attributed to high global prices and naira devaluation"
+  },
+  {
+    "marketing_year": "2024_calendar_estimate",
+    "import_mmt": 2.1,
+    "note": "earlier Nov 2023 USDA-based media projection (Nairametrics) - predates later FAS estimate, higher than 1.5-1.9 MMT range, not reconciled"
+  }
+]

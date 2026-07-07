@@ -1,0 +1,12 @@
+date,vehicle_type,duty_pct,levy_pct,combined_pct,note
+2013-10-01,new/used passenger cars (original NAIDP),35.0,35.0,70.0,raised from 20% combined; effective in stages through 2014-2015
+2013-10-01,commercial vehicles,,,35.0,lower rate than passenger cars
+2013-10-01,CKD kits (licensed assemblers),5.0,,5.0,concessional rate to favor local assembly
+2013-10-01,SKD kits (licensed assemblers),10.0,,10.0,concessional rate to favor local assembly
+2022-01-01,used vehicles (post Finance Act reduction),20.0,15.0,35.0,reduced from 70% combined; NAC levy replaces NAIDP levy terminology
+2022-01-01,new vehicles (post Finance Act reduction),20.0,20.0,40.0,
+2022-01-01,CKD kits (licensed assemblers),0.0,,0.0,fully duty-free under 2023-2025 regime
+2022-01-01,SKD kits (licensed assemblers),10.0,,10.0,unchanged
+2025-02-01,additional 4% FOB levy (NCS Act 2023),,4.0,,"replaced former 7% customs processing fee + 1% CISS fee; contested, suspended Sept 2025"
+2026-05-01,used vehicles (2026 fiscal policy cut - outside core window),5.0,,5.0,trailing context only
+2026-05-01,new vehicles (2026 fiscal policy cut - outside core window),10.0,,10.0,trailing context only

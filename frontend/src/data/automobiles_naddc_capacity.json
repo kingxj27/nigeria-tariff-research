@@ -1,0 +1,274 @@
+[
+  {
+    "company": "PAN Nigeria Ltd",
+    "installed_units_per_year": 25000,
+    "actual_units_per_year": 5000,
+    "utilization_pct": 20.0,
+    "brands": "Higer Buses, Chery",
+    "location": "Kaduna"
+  },
+  {
+    "company": "Innoson Vehicle Manufacturing Co. Ltd",
+    "installed_units_per_year": 10000,
+    "actual_units_per_year": 7000,
+    "utilization_pct": 70.0,
+    "brands": "IVM",
+    "location": "Nnewi"
+  },
+  {
+    "company": "Dana Motors Ltd",
+    "installed_units_per_year": 27000,
+    "actual_units_per_year": 9000,
+    "utilization_pct": 33.3,
+    "brands": "KIA, Dongfeng",
+    "location": "Lagos"
+  },
+  {
+    "company": "Koncept Autocentre Nig Ltd",
+    "installed_units_per_year": 6000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 33.3,
+    "brands": "Isuzu, Chevrolet",
+    "location": "Lagos"
+  },
+  {
+    "company": "Iron Product Industries Ltd",
+    "installed_units_per_year": 4000,
+    "actual_units_per_year": 2250,
+    "utilization_pct": 56.3,
+    "brands": "Tata",
+    "location": "Lagos"
+  },
+  {
+    "company": "Nigeria Sino Trucks Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 20.0,
+    "brands": "Sinotruck",
+    "location": "Ogun"
+  },
+  {
+    "company": "Coscharis Motors Assembly Ltd",
+    "installed_units_per_year": 4000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 50.0,
+    "brands": "Ford",
+    "location": "Lagos"
+  },
+  {
+    "company": "Perfection Motors Co. Ltd",
+    "installed_units_per_year": 1000,
+    "actual_units_per_year": 700,
+    "utilization_pct": 70.0,
+    "brands": "FAW",
+    "location": "Lagos"
+  },
+  {
+    "company": "CFAO Motors Nigeria Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 1500,
+    "utilization_pct": 30.0,
+    "brands": "Mitsubishi, Fuso, Kinglong",
+    "location": "Lagos"
+  },
+  {
+    "company": "Stallion Nissan Nig. Ltd",
+    "installed_units_per_year": 16000,
+    "actual_units_per_year": 5000,
+    "utilization_pct": 31.3,
+    "brands": "Nissan, Infinity, Datsun",
+    "location": "Lagos"
+  },
+  {
+    "company": "Stallion Motors Ltd",
+    "installed_units_per_year": 6000,
+    "actual_units_per_year": 3000,
+    "utilization_pct": 50.0,
+    "brands": "Volkswagen",
+    "location": "Lagos"
+  },
+  {
+    "company": "Hyundai Motors Nig Ltd",
+    "installed_units_per_year": 12000,
+    "actual_units_per_year": 6000,
+    "utilization_pct": 50.0,
+    "brands": "Hyundai",
+    "location": "Lagos"
+  },
+  {
+    "company": "VON Automobile Nig. Ltd",
+    "installed_units_per_year": 39000,
+    "actual_units_per_year": 7000,
+    "utilization_pct": 17.9,
+    "brands": "Ashok Leyland",
+    "location": "Lagos"
+  },
+  {
+    "company": "Zahav Automobile Nig. Ltd",
+    "installed_units_per_year": 6000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 33.3,
+    "brands": "JINBEI, Foton, BIAC, Changan",
+    "location": "Lagos"
+  },
+  {
+    "company": "Honda Automobile Western Africa Ltd",
+    "installed_units_per_year": 2000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 50.0,
+    "brands": "Honda",
+    "location": "Ogun"
+  },
+  {
+    "company": "Tranquinea Ltd/Leventis Motors",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 40.0,
+    "brands": "Foton, Eichel",
+    "location": "Ibadan"
+  },
+  {
+    "company": "De-Damak Nigeria Ltd",
+    "installed_units_per_year": 2400,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 41.7,
+    "brands": "T-King, BAW",
+    "location": "Ibadan"
+  },
+  {
+    "company": "Transit Support Services Ltd",
+    "installed_units_per_year": 3000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 33.3,
+    "brands": "Shacman",
+    "location": "Enugu"
+  },
+  {
+    "company": "National Truck Manufacturer Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 40.0,
+    "brands": "Sino Trucks, Foton, GWM, DF, Kinglong",
+    "location": "Kano"
+  },
+  {
+    "company": "Elizade JAC Autoland Ltd",
+    "installed_units_per_year": 20000,
+    "actual_units_per_year": 5000,
+    "utilization_pct": 25.0,
+    "brands": "JAC",
+    "location": "Lagos"
+  },
+  {
+    "company": "Dangote Sinotruk West Africa Ltd",
+    "installed_units_per_year": 10000,
+    "actual_units_per_year": 5000,
+    "utilization_pct": 50.0,
+    "brands": "Sinotruck",
+    "location": "Lagos"
+  },
+  {
+    "company": "Kewalram Nigeria Ltd",
+    "installed_units_per_year": 3000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 33.3,
+    "brands": "Foton, JMC",
+    "location": "Lagos"
+  },
+  {
+    "company": "Toyota Nigeria Ltd",
+    "installed_units_per_year": 20000,
+    "actual_units_per_year": 5000,
+    "utilization_pct": 25.0,
+    "brands": "Toyota (Corolla, Yaris, Hilux, Hiace, Dyna)",
+    "location": "Lagos"
+  },
+  {
+    "company": "Tata Africa Services (Nigeria) Ltd",
+    "installed_units_per_year": 2000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 50.0,
+    "brands": "Tata",
+    "location": "Lagos"
+  },
+  {
+    "company": "CIG Motors Co. Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 3000,
+    "utilization_pct": 60.0,
+    "brands": "GAC",
+    "location": "Lagos"
+  },
+  {
+    "company": "Kojo Motors Ltd",
+    "installed_units_per_year": 2000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 50.0,
+    "brands": "Yutong",
+    "location": "Anambra"
+  },
+  {
+    "company": "Globe Motors Nig. Ltd",
+    "installed_units_per_year": 6000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 16.7,
+    "brands": "Higer, Hyundai",
+    "location": "Lagos"
+  },
+  {
+    "company": "Lanre Shittu Motors (Nig) Ltd",
+    "installed_units_per_year": 4000,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 50.0,
+    "brands": "JAC, Dandong Huanghai, Leopard",
+    "location": "Lagos"
+  },
+  {
+    "company": "Mikano International Ltd",
+    "installed_units_per_year": 46000,
+    "actual_units_per_year": 3000,
+    "utilization_pct": 6.5,
+    "brands": "Dongfeng, Geely",
+    "location": "Ogun"
+  },
+  {
+    "company": "Jet Systems Automobiles Industries Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 20.0,
+    "brands": "Jet Brands",
+    "location": "Lagos"
+  },
+  {
+    "company": "Nord Automobiles Ltd",
+    "installed_units_per_year": 1750,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 57.1,
+    "brands": "Jiangsu Joylong, Baoneng",
+    "location": "Lagos"
+  },
+  {
+    "company": "Origin Automobiles Works Ltd",
+    "installed_units_per_year": 5000,
+    "actual_units_per_year": 1000,
+    "utilization_pct": 20.0,
+    "brands": "Massey Ferguson, Shineray, BAIC, Origin",
+    "location": "Lagos"
+  },
+  {
+    "company": "Anammco Company Ltd",
+    "installed_units_per_year": 8500,
+    "actual_units_per_year": 2000,
+    "utilization_pct": 23.5,
+    "brands": "Yutong, Dongfeng",
+    "location": "Enugu"
+  },
+  {
+    "company": "Cedric Masters Ltd",
+    "installed_units_per_year": 2000,
+    "actual_units_per_year": 1500,
+    "utilization_pct": 75.0,
+    "brands": "Dongfeng, Toyota",
+    "location": "Lagos"
+  }
+]

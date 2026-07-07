@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2013-10-01",
+    "vehicle_type": "new/used passenger cars (original NAIDP)",
+    "duty_pct": 35.0,
+    "levy_pct": 35.0,
+    "combined_pct": 70.0,
+    "note": "raised from 20% combined; effective in stages through 2014-2015"
+  },
+  {
+    "date": "2013-10-01",
+    "vehicle_type": "commercial vehicles",
+    "duty_pct": null,
+    "levy_pct": null,
+    "combined_pct": 35.0,
+    "note": "lower rate than passenger cars"
+  },
+  {
+    "date": "2013-10-01",
+    "vehicle_type": "CKD kits (licensed assemblers)",
+    "duty_pct": 5.0,
+    "levy_pct": null,
+    "combined_pct": 5.0,
+    "note": "concessional rate to favor local assembly"
+  },
+  {
+    "date": "2013-10-01",
+    "vehicle_type": "SKD kits (licensed assemblers)",
+    "duty_pct": 10.0,
+    "levy_pct": null,
+    "combined_pct": 10.0,
+    "note": "concessional rate to favor local assembly"
+  },
+  {
+    "date": "2022-01-01",
+    "vehicle_type": "used vehicles (post Finance Act reduction)",
+    "duty_pct": 20.0,
+    "levy_pct": 15.0,
+    "combined_pct": 35.0,
+    "note": "reduced from 70% combined; NAC levy replaces NAIDP levy terminology"
+  },
+  {
+    "date": "2022-01-01",
+    "vehicle_type": "new vehicles (post Finance Act reduction)",
+    "duty_pct": 20.0,
+    "levy_pct": 20.0,
+    "combined_pct": 40.0,
+    "note": null
+  },
+  {
+    "date": "2022-01-01",
+    "vehicle_type": "CKD kits (licensed assemblers)",
+    "duty_pct": 0.0,
+    "levy_pct": null,
+    "combined_pct": 0.0,
+    "note": "fully duty-free under 2023-2025 regime"
+  },
+  {
+    "date": "2022-01-01",
+    "vehicle_type": "SKD kits (licensed assemblers)",
+    "duty_pct": 10.0,
+    "levy_pct": null,
+    "combined_pct": 10.0,
+    "note": "unchanged"
+  },
+  {
+    "date": "2025-02-01",
+    "vehicle_type": "additional 4% FOB levy (NCS Act 2023)",
+    "duty_pct": null,
+    "levy_pct": 4.0,
+    "combined_pct": null,
+    "note": "replaced former 7% customs processing fee + 1% CISS fee; contested, suspended Sept 2025"
+  },
+  {
+    "date": "2026-05-01",
+    "vehicle_type": "used vehicles (2026 fiscal policy cut - outside core window)",
+    "duty_pct": 5.0,
+    "levy_pct": null,
+    "combined_pct": 5.0,
+    "note": "trailing context only"
+  },
+  {
+    "date": "2026-05-01",
+    "vehicle_type": "new vehicles (2026 fiscal policy cut - outside core window)",
+    "duty_pct": 10.0,
+    "levy_pct": null,
+    "combined_pct": 10.0,
+    "note": "trailing context only"
+  }
+]

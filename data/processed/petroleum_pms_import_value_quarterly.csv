@@ -1,0 +1,10 @@
+year,quarter,value_ngn_trillion,note
+2023,Q1,3.30,
+2023,Q2,3.40,
+2023,Q3,2.20,
+2023,Q4,3.00,approx per Channels TV; restated as 3.3 in a later Nairametrics piece - discrepancy not reconciled
+2024,Q1,3.81,
+2025,Q1,1.76,"conflicts with a separate source citing 2.27 for the same quarter - unreconciled, see notes.md gap #3"
+2025,Q2,2.38,
+2025,Q3,1.29,also reported as 1.28 in a separate NBS release - minor rounding difference
+2025,Q4,3.54,

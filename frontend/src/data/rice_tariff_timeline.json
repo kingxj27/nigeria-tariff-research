@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2013-01-01",
+    "event": "standard rice import duty+levy (historical baseline)",
+    "rate_pct": 70.0,
+    "note": "10% duty + 60% levy at various points; already 70% as far back as 2013"
+  },
+  {
+    "date": "2019-08-01",
+    "event": "partial land border closure (Benin)",
+    "rate_pct": null,
+    "note": null
+  },
+  {
+    "date": "2019-10-14",
+    "event": "full land border closure (Benin, Cameroon, Chad, Niger)",
+    "rate_pct": null,
+    "note": "rice and poultry explicitly targeted"
+  },
+  {
+    "date": "2020-12-16",
+    "event": "partial border reopening",
+    "rate_pct": null,
+    "note": "rice and poultry remained formally banned despite reopening"
+  },
+  {
+    "date": "2023-01-01",
+    "event": "rice tariff raised",
+    "rate_pct": 60.0,
+    "note": "raised from 50% base rate per Businessday - exact 2023 date unconfirmed, distinct from the 70% combined duty+levy figure"
+  },
+  {
+    "date": "2024-01-01",
+    "event": "CBN customs duty benchmark FX rate raised (indirect duty increase)",
+    "rate_pct": 2.6,
+    "note": "effective duty increase via FX benchmark change"
+  },
+  {
+    "date": "2024-07-15",
+    "event": "150-day zero-duty/VAT-exempt window for husked brown rice + 5 other staples begins",
+    "rate_pct": 0.0,
+    "note": "tied to 39.53% food inflation; strict eligibility (5yr+ company, 100 tonnes/day milling capacity)"
+  },
+  {
+    "date": "2024-12-31",
+    "event": "zero-duty window expires",
+    "rate_pct": null,
+    "note": "no confirmed extension into 2025 found"
+  },
+  {
+    "date": "2025-01-01",
+    "event": "standard duty (post-window)",
+    "rate_pct": 70.0,
+    "note": "10% duty + 60% levy - confirmed still current per trade.gov Sept 2025 update"
+  },
+  {
+    "date": "2025-01-01",
+    "event": "integrated miller rate (backward integration proof)",
+    "rate_pct": 30.0,
+    "note": "10% duty + 20% levy"
+  }
+]

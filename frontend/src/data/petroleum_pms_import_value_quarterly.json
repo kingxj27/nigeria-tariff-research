@@ -1,0 +1,56 @@
+[
+  {
+    "year": 2023,
+    "quarter": "Q1",
+    "value_ngn_trillion": 3.3,
+    "note": null
+  },
+  {
+    "year": 2023,
+    "quarter": "Q2",
+    "value_ngn_trillion": 3.4,
+    "note": null
+  },
+  {
+    "year": 2023,
+    "quarter": "Q3",
+    "value_ngn_trillion": 2.2,
+    "note": null
+  },
+  {
+    "year": 2023,
+    "quarter": "Q4",
+    "value_ngn_trillion": 3.0,
+    "note": "approx per Channels TV; restated as 3.3 in a later Nairametrics piece - discrepancy not reconciled"
+  },
+  {
+    "year": 2024,
+    "quarter": "Q1",
+    "value_ngn_trillion": 3.81,
+    "note": null
+  },
+  {
+    "year": 2025,
+    "quarter": "Q1",
+    "value_ngn_trillion": 1.76,
+    "note": "conflicts with a separate source citing 2.27 for the same quarter - unreconciled, see notes.md gap #3"
+  },
+  {
+    "year": 2025,
+    "quarter": "Q2",
+    "value_ngn_trillion": 2.38,
+    "note": null
+  },
+  {
+    "year": 2025,
+    "quarter": "Q3",
+    "value_ngn_trillion": 1.29,
+    "note": "also reported as 1.28 in a separate NBS release - minor rounding difference"
+  },
+  {
+    "year": 2025,
+    "quarter": "Q4",
+    "value_ngn_trillion": 3.54,
+    "note": null
+  }
+]

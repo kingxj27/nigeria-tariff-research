@@ -1,0 +1,58 @@
+[
+  {
+    "date": "Finance Act 2023 - 0.5% levy on non-African imports (general",
+    "event": " not petroleum-specific)",
+    "rate_pct": "0.5",
+    "status": "implemented",
+    "note": "applies to all non-African-sourced imports including refined products"
+  },
+  {
+    "date": "Petrol subsidy officially declared removed",
+    "event": null,
+    "rate_pct": "implemented",
+    "status": "pump price jumped from ~N185/litre to N488-555/litre",
+    "note": null
+  },
+  {
+    "date": "CBN FX unification into NFEM window (verified action date)",
+    "event": null,
+    "rate_pct": "implemented",
+    "status": "petroleum products were not among the historical 43-item FX-restricted list; effect on petroleum importers was indirect via naira depreciation",
+    "note": null
+  },
+  {
+    "date": "FEC approval enabling naira-denominated crude/refined product trade (legal basis for naira-for-crude)",
+    "event": null,
+    "rate_pct": "implemented",
+    "status": null,
+    "note": null
+  },
+  {
+    "date": "Dangote Refinery begins PMS production",
+    "event": null,
+    "rate_pct": "implemented",
+    "status": "25 million litres/day initial; ramped to 35 million litres/day by Oct 2024",
+    "note": null
+  },
+  {
+    "date": "Tinubu approves 15% ad-valorem import duty on PMS/AGO (\"Market-Responsive Tariffs Framework\")",
+    "event": "15",
+    "rate_pct": "approved then suspended",
+    "status": "legal basis Section 13 CETA",
+    "note": null
+  },
+  {
+    "date": "15% import duty suspended before effective date following industry pushback",
+    "event": "15",
+    "rate_pct": "suspended",
+    "status": "never actually collected",
+    "note": null
+  },
+  {
+    "date": "NMDPRA halts new PMS import licences - local production meeting demand",
+    "event": null,
+    "rate_pct": "implemented (outside core window)",
+    "status": "trailing context only; shows trajectory toward import substitution",
+    "note": null
+  }
+]

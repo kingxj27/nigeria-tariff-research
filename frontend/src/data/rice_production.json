@@ -1,0 +1,37 @@
+[
+  {
+    "marketing_year": "2022_2023",
+    "paddy_mmt": 8.5,
+    "milled_mmt": 5.355,
+    "source_series": "USDA_FAS",
+    "note": null
+  },
+  {
+    "marketing_year": "2023_2024",
+    "paddy_mmt": 8.3,
+    "milled_mmt": 5.229,
+    "source_series": "USDA_FAS",
+    "note": "estimate"
+  },
+  {
+    "marketing_year": "2024_2025",
+    "paddy_mmt": 7.7,
+    "milled_mmt": 4.851,
+    "source_series": "USDA_FAS",
+    "note": "forecast; -7% attributed to insecurity, decreased govt support, inadequate mechanization"
+  },
+  {
+    "marketing_year": "2020",
+    "paddy_mmt": 8.4,
+    "milled_mmt": null,
+    "source_series": "CARD_riceforafrica",
+    "note": "alternate series, not reconciled with USDA FAS"
+  },
+  {
+    "marketing_year": "2024",
+    "paddy_mmt": 9.14,
+    "milled_mmt": null,
+    "source_series": "CARD_riceforafrica",
+    "note": "alternate series shows rising production vs USDA's declining trend - unreconciled discrepancy"
+  }
+]

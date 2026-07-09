@@ -6,9 +6,11 @@
 
 ## Abstract
 
-Nigeria's tariff regime is often read as a single coherent policy stance — protectionist, liberalizing, or caught between the two under its African Continental Free Trade Area (AfCFTA) commitments. This paper argues that framing is empirically inadequate. Using a comparative case-study design across three sectors subject to materially different tariff treatment between 2023 and 2025 — refined petroleum (an effective tariff near zero), automobiles (a 35-40% wall with a 0-10% concession for local assembly), and rice (a 70% combined duty and levy, among the highest in Nigeria's schedule) — this paper finds that effective tariff level does not predict import-substitution outcomes. Petroleum, the least-protected sector, recorded the fastest and most durable substitution of imports, driven by a single large private refining asset rather than trade policy. Automobiles, protected at a rate designed explicitly to reward local assembly, show 29.0% aggregate capacity utilization across 34 licensed assemblers and a policy framework that has never acquired the force of law. Rice, the most heavily protected sector, remains the single most-smuggled commodity through Nigerian customs checkpoints as of the first quarter of 2025. These findings extend Corden's (1971) effective-protection framework and Krueger's (1974) rent-seeking model to a contemporary African case, and they corroborate Gao et al.'s (2023) finding that decades of Nigerian agricultural protectionism have left import dependence largely unchanged. The paper also finds that Nigeria's AfCFTA commitments — gazetted only in 2025 — cannot be shown to constrain sector-level outcomes in this window for two of the three sectors studied, a limitation on the "AfCFTA versus protectionism" narrative common in policy commentary. The central implication is that tariff schedules are a weak proxy for industrial-policy seriousness; the presence of a credible, scaled domestic supply response is the better predictor of substitution outcomes.
+Nigeria's tariff regime is often read as a single coherent stance — protectionist, liberalizing, or caught between the two under its African Continental Free Trade Area (AfCFTA) commitments. This paper argues that framing is empirically inadequate. Using a comparative case-study design across three sectors with materially different tariff treatment between 2023 and 2025 — refined petroleum (an effective tariff near zero), automobiles (a 35-40% wall with a 0-10% concession for local assembly), and rice (a 70% combined duty and levy, among the highest in Nigeria's schedule) — this paper finds that effective tariff level does not predict import-substitution outcomes. Petroleum, the least-protected sector, recorded the fastest and most durable substitution of imports, driven by a single large private refining asset rather than trade policy. Automobiles, protected at a rate designed to reward local assembly, show 29.0% aggregate capacity utilization across 34 licensed assemblers and a policy framework that has never acquired the force of law. Rice, the most heavily protected sector, remains the single most-smuggled commodity through Nigerian customs checkpoints as of early 2025. These findings extend Corden's (1971) effective-protection framework and Krueger's (1974) rent-seeking model to a contemporary African case, and corroborate Gao et al.'s (2023) finding that decades of agricultural protectionism have left Nigeria's import dependence largely unchanged. The paper also finds that Nigeria's AfCFTA commitments — gazetted only in 2025 — cannot be shown to constrain outcomes in this window for two of the three sectors, limiting the "AfCFTA versus protectionism" narrative common in policy commentary. The central implication: tariff schedules are a weak proxy for industrial-policy seriousness; a credible, scaled domestic supply response is the better predictor of substitution outcomes.
 
 **Keywords:** trade policy, tariff protection, industrial policy, Nigeria, AfCFTA, import substitution, effective rate of protection
+
+**JEL Classification:** F13 (Trade Policy), F15 (Economic Integration), O25 (Industrial Policy), Q17 (Agriculture in International Trade)
 
 ---
 
@@ -66,21 +68,47 @@ Three limitations bear directly on the inferences this paper can support. First,
 
 Nigeria operated without a dedicated import tariff on petrol (PMS) or diesel (AGO) for nearly all of 2023-2025; the only broadly applicable charge was a general 0.5% levy on non-African imports introduced by the Finance Act 2023, not a petroleum-specific instrument. The one dedicated petroleum tariff action of the period — a 15% ad valorem duty approved on 21 October 2025 and explicitly framed by officials as protecting the newly operational Dangote Refinery — was suspended on 13 November 2025, before its 30-day transition window had even elapsed, following opposition from marketers and civil society over projected pump-price increases. The duty was never collected.
 
-Substitution nonetheless occurred, and quickly. The Dangote Refinery (650,000 barrels-per-day nameplate capacity) began PMS production in September 2024 and reached an estimated 85% utilization by mid-2025. Nigeria's petrol import bill fell from a currency-inflated 2024 peak of ₦15.42 trillion to ₦8.96 trillion in 2025 — a 42% decline — and petrol's share of total Nigerian imports fell from 13.64% in the first quarter of 2025 toward near-zero within a year, coinciding with NMDPRA's move to halt new PMS import licenses on the stated grounds that domestic production was meeting demand. The mechanism sustaining this substitution — a naira-denominated crude supply arrangement between NNPC and Dangote — allocated 82 million barrels between October 2024 and October 2025 (60% naira-settled), but has since shown institutional strain: a reported supply shortfall of approximately 79.5 million barrels between late 2025 and mid-2026, and an active legal dispute over import-license enforcement. This sector's substitution is real but should be read as institutionally immature rather than settled.
+Substitution nonetheless occurred, and quickly. The Dangote Refinery (650,000 barrels-per-day nameplate capacity) began PMS production in September 2024 and reached an estimated 85% utilization by mid-2025. Nigeria's petrol import bill fell from a currency-inflated 2024 peak of ₦15.42 trillion to ₦8.96 trillion in 2025 — a 42% decline — and petrol's share of total Nigerian imports fell from 13.64% in the first quarter of 2025 toward near-zero within a year, coinciding with NMDPRA's move to halt new PMS import licenses on the stated grounds that domestic production was meeting demand.
+
+![Figure 1: Nigeria's PMS import bill, 2020-2025](../outputs/charts/petroleum_pms_import_value_annual.png)
+
+**Figure 1.** Nigeria's PMS (petrol) import bill, 2020-2025. The 2024 spike is substantially a currency-depreciation effect rather than a volume increase; the 2025 decline coincides with the Dangote Refinery's ramp-up. Source: NBS Foreign Trade Statistics.
+
+![Figure 2: Quarterly PMS import bill, 2023-2025](../outputs/charts/petroleum_pms_import_value_quarterly.png)
+
+**Figure 2.** Quarterly PMS import bill, 2023-2025, showing every 2025 quarter below the 2024 Q1 peak. Source: NBS Foreign Trade Statistics.
+
+The mechanism sustaining this substitution — a naira-denominated crude supply arrangement between NNPC and Dangote — allocated 82 million barrels between October 2024 and October 2025 (60% naira-settled), but has since shown institutional strain: a reported supply shortfall of approximately 79.5 million barrels between late 2025 and mid-2026, and an active legal dispute over import-license enforcement. This sector's substitution is real but should be read as institutionally immature rather than settled.
 
 ### 4.2 Automobiles: effective protection without the predicted response
 
 Nigeria's automotive tariff structure closely follows the effective-protection logic Corden (1971) describes: a substantial combined duty and levy on fully-built vehicle imports (35% used, 40% new) against a 0% rate for CKD kits and 10% for SKD kits used by licensed assemblers — a structure designed explicitly to make local assembly value-added more profitable than importing finished vehicles. The National Automotive Industry Development Plan (NAIDP), first introduced in 2013 at an even steeper differential (70% combined on finished imports), is the policy instrument underlying this structure.
 
+![Figure 3: The tariff wall favoring local assembly](../outputs/charts/automobiles_tariff_differential.png)
+
+**Figure 3.** Combined duty and levy by import route, 2022-2025: fully-built imports versus CKD/SKD kits for licensed assemblers. Source: trade.gov Nigeria Country Commercial Guide.
+
 A primary NADDC document dated April 2024, covering all 34 then-licensed assemblers, allows this paper to test Corden's predicted response directly. Summed across the full table: installed annual capacity of 323,650 units against actual output of 93,950 units, an aggregate utilization of 29.0%. The distribution is as informative as the aggregate: Innoson (the only wholly Nigerian-owned mass-market original equipment manufacturer in the list) operates at 70% utilization, while Mikano International — with the largest single installed capacity in the table at 46,000 units annually — operates at 6.5%. Twenty of 58 companies historically licensed under NAIDP had suspended operations entirely by March 2025, representing an estimated $89.6 million in stranded investment.
 
+![Figure 4: Licensed auto assemblers operate far below installed capacity](../outputs/charts/automobiles_naddc_utilization.png)
+
+**Figure 4.** Capacity utilization by licensed assembler, April 2024 NADDC data (n=34). Dashed line marks the verified sector aggregate of 29.0%. Source: NADDC, "Automotive Companies Under NAIDP That Are In Full Commercial Operation," April 2024.
+
 This pattern is consistent with Krueger's (1974) rent-seeking framework: a policy that confers a substantial tariff concession on license-holders without a binding, monitored production obligation creates conditions in which some firms may capture the concession without scaling production accordingly. It is also consistent with Rodrik's (2004) diagnostic that industrial policy without embedded accountability underperforms — the NAIDP framework has never acquired the force of law; its original ten-year statutory term lapsed in 2024, and as of October 2025 industry stakeholders, including NADDC's own Director-General, were still publicly demanding legislative passage of a "NAIDP Bill." As one representative quote from that reporting states: *"Nobody wants to commit serious capital to the auto industry without adequate laws to protect their investments."* This corroborates Ugwueze et al.'s (2020) and Agbo's (2020) shared conclusion that policy inconsistency, not the absence of protection, is the binding constraint on Nigerian automotive development — this paper's contribution is a economy-wide utilization figure (29.0%) that quantifies the scale of that underperformance directly.
+
+![Figure 5: Vehicle import value, 2022-2024](../outputs/charts/automobiles_import_value_trend.png)
+
+**Figure 5.** Vehicle import value, 2022-2024, across two distinct NBS-attributed series. Both spike 2022→2023 before diverging, consistent with currency and demand effects dominating over the relatively stable tariff structure across this window. Source: NBS via Nairametrics.
 
 ### 4.3 Rice: the heaviest protection, the most persistent leakage
 
 Rice carries the highest effective tariff of the three sectors studied: a combined 70% duty and levy, reduced to 30% for integrated millers able to demonstrate backward integration into domestic paddy sourcing, a structure that has held roughly constant since at least 2013. This tariff sits atop Nigeria's 2019 land-border closure with Benin, Cameroon, Chad, and Niger, undertaken explicitly to curb rice and poultry smuggling; the border was only ever partially reopened in December 2020, with rice remaining formally banned even after general trade resumed.
 
 The evidence that this combination has not achieved its stated goal is direct and recent: in the first quarter of 2025 alone, Nigerian Customs recorded 159 rice-smuggling seizure cases totaling 135,474 bags worth ₦939 million, making rice the single most-smuggled commodity that quarter — ahead of both refined petroleum products and narcotics. USDA Foreign Agricultural Service estimates place Nigeria's rice self-sufficiency at roughly 70-76% across 2022-2025, a ratio that appears to be improving mainly because forecast domestic production is *declining* (attributed to insecurity in growing regions and reduced mechanization investment) alongside a larger fall in import demand, plausibly a currency-driven affordability effect rather than a supply-side improvement — a pattern structurally similar to the demand effects observed in the petroleum and automobile cases. This finding directly corroborates Gao et al.'s (2023) conclusion that Nigeria's decades-long protectionist rice policy has left underlying import dependence largely unchanged despite repeated escalation of the protective instrument.
+
+![Figure 6: Nigeria still imports roughly a fifth of its rice despite a 70% tariff](../outputs/charts/rice_production_vs_imports.png)
+
+**Figure 6.** Domestic milled rice production versus imports, USDA FAS marketing-year estimates, 2022/23-2024/25 (forecast). Source: USDA FAS, Grain and Feed Annual NI2024-0002.
 
 ### 4.4 Cross-sector synthesis
 
@@ -95,6 +123,10 @@ Table 1 summarizes the three cases against their effective tariff level and outc
 | Rice/agriculture | 70% | Sustained high tariff plus intermittent border closures and duty waivers | Persistent large-scale smuggling; import dependence largely unchanged over decades |
 
 The ordering in Table 1 is the inverse of what a simple tariff-as-protection thesis would predict: the least-protected sector achieved the most substitution, and the most-protected sector shows the weakest enforcement outcome. This is consistent with Corden's (1971) original caution that nominal or even effective tariff rates describe policy *intent*, not realized economic outcome, and with Rodrik's (2004) argument that the presence of accountability mechanisms — not the size of the incentive — determines whether industrial policy succeeds. The variable that best explains the divergence across these three cases is not the tariff line but whether a credible, adequately capitalized domestic supply response existed independent of the tariff: a single large refining asset in petroleum; a fragmented base of 34 individually under-scaled assemblers in automobiles; and a still-fragmented milling sector, alongside porous enforcement, in rice.
+
+![Figure 7: Effective tariff protection varies sharply across the 3 sectors](../outputs/charts/sector_comparison_effective_tariff.png)
+
+**Figure 7.** Effective tariff rate by sector, 2025, ordered against the substitution outcomes in Table 1. Source: see `data/raw/{petroleum,automobiles,rice}/sources.md`.
 
 ---
 
@@ -124,11 +156,11 @@ The paper's limitations should constrain how its findings are generalized. First
 
 ## References
 
-Agbo, C. O. A. (2020). Nigeria's automotive policy and the quest for a viable automotive industry: a lesson for the developing economies. *Journal of Science and Technology Policy Management*, 11(4), 585-604.
-
-Boysen, O. (2024). The AfCFTA tariff offers: Current state and first revelations about members' stances towards openness and protectionism. *The World Economy*. Advance online publication.
+Agbo, C. O. A. (2020). Nigeria's automotive policy and the quest for a viable automotive industry: A lesson for the developing economies. *Journal of Science and Technology Policy Management*, 11(4), 585-604.
 
 Bouët, A., Laborde, D., Traoré, F., & Malhotra, S. (2019, December 20). *Walk the talk: Nigeria's import prohibitions, smuggling, and the African Continental Free Trade Agreement* [Blog post]. International Food Policy Research Institute. https://www.ifpri.org/blog/walk-talk-nigerias-import-prohibitions-smuggling-and-african-continental-free-trade-agreement/
+
+Boysen, O. (2024). The AfCFTA tariff offers: Current state and first revelations about members' stances towards openness and protectionism. *The World Economy*. Advance online publication.
 
 Corden, W. M. (1971). *The theory of protection*. Clarendon Press.
 

@@ -22,7 +22,7 @@ export default function RiceSection() {
               <CartesianGrid stroke="#E2E5EA" vertical={false} />
               <XAxis dataKey="year" tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} />
               <YAxis tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={false} tickLine={false} label={{ value: 'Million metric tons', angle: -90, position: 'insideLeft', fill: '#8C96A3', fontSize: 12 }} />
-              <Tooltip formatter={(v: number) => `${v} MMT`} />
+              <Tooltip formatter={(v) => `${v} MMT`} />
               <Legend wrapperStyle={{ fontSize: 12 }} />
               <Bar dataKey="production" name="Domestic milled production" fill="#1B2A4A" radius={[4, 4, 0, 0]} />
               <Bar dataKey="imports" name="Imports" fill="#D9822B" radius={[4, 4, 0, 0]} />

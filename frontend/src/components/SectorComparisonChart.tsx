@@ -30,7 +30,7 @@ export default function SectorComparisonChart() {
               <CartesianGrid stroke="#E2E5EA" vertical={false} />
               <XAxis dataKey="sector" tick={{ fill: '#8C96A3', fontSize: 13 }} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} />
               <YAxis tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={false} tickLine={false} label={{ value: 'Effective tariff (%)', angle: -90, position: 'insideLeft', fill: '#8C96A3', fontSize: 12 }} />
-              <Tooltip formatter={(v: number) => `${v}%`} />
+              <Tooltip formatter={(v) => `${v}%`} />
               <Bar dataKey="tariff" radius={[4, 4, 0, 0]}>
                 {data.map((d) => (
                   <Cell key={d.sector} fill={COLOR_BY_SECTOR[d.sector]} />

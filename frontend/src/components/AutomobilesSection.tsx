@@ -34,7 +34,7 @@ export default function AutomobilesSection() {
               <CartesianGrid stroke="#E2E5EA" vertical={false} />
               <XAxis dataKey="label" tick={{ fill: '#8C96A3', fontSize: 11 }} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} />
               <YAxis tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={false} tickLine={false} />
-              <Tooltip formatter={(v: number) => `${v}%`} />
+              <Tooltip formatter={(v) => `${v}%`} />
               <Bar dataKey="value" radius={[4, 4, 0, 0]}>
                 {TARIFF_DATA.map((d) => (
                   <Cell key={d.label} fill={d.color} />
@@ -68,7 +68,7 @@ export default function AutomobilesSection() {
                 tickLine={false}
                 width={140}
               />
-              <Tooltip formatter={(v: number) => `${v}%`} />
+              <Tooltip formatter={(v) => `${v}%`} />
               <ReferenceLine x={aggUtil} stroke="#8C96A3" strokeDasharray="4 4" />
               <Bar dataKey="utilization_pct" radius={[0, 4, 4, 0]}>
                 {visible.map((d) => (

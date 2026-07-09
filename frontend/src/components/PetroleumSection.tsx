@@ -20,7 +20,7 @@ export default function PetroleumSection() {
               <CartesianGrid stroke="#E2E5EA" vertical={false} />
               <XAxis dataKey="year" tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} />
               <YAxis tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={false} tickLine={false} label={{ value: '₦ trillion', angle: -90, position: 'insideLeft', fill: '#8C96A3', fontSize: 12 }} />
-              <Tooltip formatter={(v: number) => `₦${v}tn`} />
+              <Tooltip formatter={(v) => `₦${v}tn`} />
               <Bar dataKey="value" radius={[4, 4, 0, 0]}>
                 {data.map((d) => (
                   <Cell key={d.year} fill={colorFor(d.year)} />

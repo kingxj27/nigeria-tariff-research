@@ -10,6 +10,24 @@ const TARIFF_DATA = [
   { label: 'SKD kits\n(licensed)', value: 10, color: '#3F7A5E' },
 ]
 
+// Recharts' default tick doesn't render \n as a line break (it stays on one
+// SVG text line), which overlaps adjacent labels at narrow widths. Render
+// each line as its own <text> inside a positioned <g> instead.
+function MultilineTick(props: { x?: number | string; y?: number | string; payload?: { value?: unknown } }) {
+  const { x = 0, y = 0, payload } = props
+  if (!payload) return null
+  const lines = String(payload.value).split('\n')
+  return (
+    <g transform={`translate(${x},${y})`}>
+      {lines.map((line, i) => (
+        <text key={i} x={0} y={0} dy={14 + i * 13} textAnchor="middle" fill="#8C96A3" fontSize={11}>
+          {line}
+        </text>
+      ))}
+    </g>
+  )
+}
+
 export default function AutomobilesSection() {
   const [showAll, setShowAll] = useState(false)
 
@@ -30,9 +48,9 @@ export default function AutomobilesSection() {
         <div className="bg-white rounded-xl p-6 shadow-sm" style={{ height: 320 }}>
           <p className="text-sm font-semibold text-navy mb-2">Combined duty + levy by import route</p>
           <ResponsiveContainer width="100%" height="85%">
-            <BarChart data={TARIFF_DATA} margin={{ top: 20, right: 10, left: 0, bottom: 5 }}>
+            <BarChart data={TARIFF_DATA} margin={{ top: 20, right: 10, left: 0, bottom: 20 }}>
               <CartesianGrid stroke="#E2E5EA" vertical={false} />
-              <XAxis dataKey="label" tick={{ fill: '#8C96A3', fontSize: 11 }} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} />
+              <XAxis dataKey="label" tick={MultilineTick} axisLine={{ stroke: '#D6DAE0' }} tickLine={false} interval={0} />
               <YAxis tick={{ fill: '#8C96A3', fontSize: 12 }} axisLine={false} tickLine={false} />
               <Tooltip formatter={(v) => `${v}%`} />
               <Bar dataKey="value" radius={[4, 4, 0, 0]}>

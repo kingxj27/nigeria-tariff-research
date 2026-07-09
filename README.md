@@ -6,6 +6,8 @@ Nigeria doesn't have one tariff policy; it has three, and they point in differen
 
 The answer is no. The least-protected sector (petroleum, ~0.5% effective tariff) shows the fastest, largest import substitution — driven by a single private refining asset, not policy. The most-protected sector (rice, 70% combined duty) shows the weakest enforcement outcome and remains Nigeria's single most-smuggled commodity. Automobiles, tariffed specifically to reward local assembly (35-40% on imports vs. 0-10% for local-assembly kits), sit at a verified **29.0% aggregate capacity utilization** across all 34 licensed assemblers. The variable that actually predicts outcomes isn't the tariff line — it's whether a credible, scaled domestic supply response exists behind it.
 
+**Live dashboard: [frontend-iota-woad-42.vercel.app](https://frontend-iota-woad-42.vercel.app)**
+
 ![Dashboard screenshot](docs/dashboard-screenshot.png)
 
 ## Deliverables
@@ -14,9 +16,10 @@ The answer is no. The least-protected sector (petroleum, ~0.5% effective tariff)
 |---|---|---|
 | Academic paper | [`paper/nigeria-tariff-academic-paper.md`](paper/nigeria-tariff-academic-paper.md) ([PDF](paper/nigeria-tariff-academic-paper.pdf)) | Literature review, formal methodology, APA references |
 | Policy paper | [`paper/nigeria-tariff-policy-paper.md`](paper/nigeria-tariff-policy-paper.md) | Consulting-style case study |
-| Investment memo | [`memo/nigeria-tariff-investment-memo.md`](memo/nigeria-tariff-investment-memo.md) | Capital-allocation read per sector |
+| Investment memo | [`memo/nigeria-tariff-investment-memo.md`](memo/nigeria-tariff-investment-memo.md) ([PDF](memo/nigeria-tariff-investment-memo.pdf)) | Capital-allocation read per sector |
 | Slide deck | [`deck/nigeria-tariff-policy-deck.pptx`](deck/nigeria-tariff-policy-deck.pptx) | 12-slide condensed narrative |
-| Interactive dashboard | [`frontend/`](frontend/) | Live charts, built with React + Recharts |
+| Interactive dashboard | [Live site](https://frontend-iota-woad-42.vercel.app) / [`frontend/`](frontend/) source | Live charts, built with React + Recharts |
+| Video walkthrough script | [`docs/loom-walkthrough-script.md`](docs/loom-walkthrough-script.md) | ~3-minute recorded overview |
 
 ## Repository structure
 

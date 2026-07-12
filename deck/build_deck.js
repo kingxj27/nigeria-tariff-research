@@ -75,13 +75,13 @@ async function main() {
   {
     const s = pres.addSlide();
     eyebrow(s, "Governing thought", ORANGE);
-    actionTitle(s, "Tariff level does not predict import-substitution outcome — a credible domestic supply response does");
+    actionTitle(s, "Tariff level doesn't predict import-substitution outcome. A credible domestic supply response does.");
 
     const cardY = 2.1, cardH = 3.5;
     const cards = [
-      { icon: FaGasPump, color: NAVY, sector: "Refined petroleum", tariff: "~0.5% tariff", outcome: "Fastest substitution — driven by Dangote Refinery, not policy" },
+      { icon: FaGasPump, color: NAVY, sector: "Refined petroleum", tariff: "~0.5% tariff", outcome: "Fastest substitution, driven by Dangote Refinery" },
       { icon: FaCar, color: ORANGE, sector: "Automobiles", tariff: "35-40% tariff", outcome: "Heavy protection, only 29.0% aggregate capacity utilization" },
-      { icon: FaSeedling, color: GREEN, sector: "Rice / agriculture", tariff: "70% tariff", outcome: "Heaviest wall, most persistent leakage — top-smuggled commodity" },
+      { icon: FaSeedling, color: GREEN, sector: "Rice / agriculture", tariff: "70% tariff", outcome: "Heaviest wall, most persistent leakage, and the top-smuggled commodity" },
     ];
     const cardW = 3.85, gap = 0.35;
     for (let i = 0; i < 3; i++) {
@@ -95,7 +95,7 @@ async function main() {
       s.addText(cards[i].tariff, { x: x + 0.25, y: cardY + 1.85, w: cardW - 0.5, h: 0.45, fontSize: 20, bold: true, color: cards[i].color });
       s.addText(cards[i].outcome, { x: x + 0.25, y: cardY + 2.4, w: cardW - 0.5, h: 1.0, fontSize: 12.5, color: "3D4759" });
     }
-    footer(s, "The variable that predicts outcomes is not the tariff line — it's whether a credible domestic supply response exists behind it.");
+    footer(s, "The variable that predicts outcomes isn't the tariff line. It's whether a credible domestic supply response exists behind it.");
     pageNum(s, 2);
   }
 
@@ -115,20 +115,20 @@ async function main() {
       [
         { text: "Refined petroleum", options: { bold: true, color: NAVY, fontSize: 12.5 } },
         { text: "~0.5%", options: { fontSize: 12.5 } },
-        { text: "Signaling — approved-then-suspended duty, import license halts", options: { fontSize: 12.5 } },
-        { text: "Fastest import substitution, via Dangote Refinery not tariff", options: { fontSize: 12.5 } },
+        { text: "Signaling: an approved-then-suspended duty, import license halts", options: { fontSize: 12.5 } },
+        { text: "Fastest import substitution, driven by Dangote Refinery", options: { fontSize: 12.5 } },
       ],
       [
         { text: "Automobiles", options: { bold: true, color: NAVY, fontSize: 12.5 } },
         { text: "35-40%", options: { fontSize: 12.5 } },
         { text: "Sustained tariff differential (fully-built vs. CKD/SKD)", options: { fontSize: 12.5 } },
-        { text: "Protection without competitiveness — 29.0% aggregate utilization", options: { fontSize: 12.5 } },
+        { text: "Protection without competitiveness: 29.0% aggregate utilization", options: { fontSize: 12.5 } },
       ],
       [
         { text: "Rice / agriculture", options: { bold: true, color: NAVY, fontSize: 12.5 } },
         { text: "70%", options: { fontSize: 12.5 } },
-        { text: "Sustained high tariff + intermittent bans/waivers", options: { fontSize: 12.5 } },
-        { text: "Heaviest wall, most persistent leakage — top-smuggled commodity", options: { fontSize: 12.5 } },
+        { text: "Sustained high tariff plus intermittent bans and waivers", options: { fontSize: 12.5 } },
+        { text: "Heaviest wall, most persistent leakage, top-smuggled commodity", options: { fontSize: 12.5 } },
       ],
     ];
     s.addTable(rows, {
@@ -148,14 +148,14 @@ async function main() {
   {
     const s = pres.addSlide();
     eyebrow(s, "Case I · Refined petroleum", NAVY);
-    actionTitle(s, "Near-zero tariff, fastest substitution — Dangote Refinery is doing what policy didn't");
+    actionTitle(s, "Near-zero tariff, fastest substitution. Dangote Refinery is doing what policy didn't.");
     s.addImage({ path: path.join(CHARTS, "petroleum_pms_import_value_annual.png"), x: 0.5, y: 2.0, w: 7.6, h: 4.9, sizing: { type: "contain", w: 7.6, h: 4.9 } });
 
     const bulletX = 8.35, bulletW = 4.45;
     s.addText([
-      { text: "Petrol import bill fell 42% in 2025 (₦15.42tn → ₦8.96tn) as Dangote reached ~85% utilization of its 650,000 bpd refinery", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
-      { text: "The only dedicated petroleum tariff of the period — a 15% duty — was approved 21 Oct 2025 and suspended 13 Nov 2025, before ever taking effect", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
-      { text: "2024's naira-value spike (+105%) is substantially a currency story: the naira depreciated 40.9% that year, not a volume story", options: { bullet: true } },
+      { text: "Petrol import bill fell 42% in 2025 (₦15.42tn to ₦8.96tn) as Dangote reached ~85% utilization of its 650,000 bpd refinery", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
+      { text: "The only dedicated petroleum tariff of the period, a 15% duty, was approved 21 Oct 2025 and suspended 13 Nov 2025, before ever taking effect", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
+      { text: "2024's naira-value spike (+105%) is mostly a currency story. The naira depreciated 40.9% that year.", options: { bullet: true } },
     ], { x: bulletX, y: 2.1, w: bulletW, h: 4.6, fontSize: 13, color: "3D4759", valign: "top" });
     footer(s, "Source: NBS Foreign Trade Statistics via Nairametrics/Businessday/Daily Trust, 2025-2026");
     pageNum(s, 4);
@@ -170,7 +170,7 @@ async function main() {
     const items = [
       { stat: "82M barrels", label: "allocated to Dangote Oct 2024-Oct 2025 under the naira-for-crude deal, 60% naira-denominated" },
       { stat: "3 weeks", label: "how long the Oct 2025 15% import duty survived before being suspended amid industry pushback" },
-      { stat: "~79.5M barrel", label: "reported NNPC supply shortfall to Dangote, Oct 2025-mid 2026 — and an active Dangote lawsuit disputing import-license enforcement" },
+      { stat: "~79.5M barrel", label: "reported NNPC supply shortfall to Dangote, Oct 2025-mid 2026. Dangote also has an active lawsuit disputing import-license enforcement." },
     ];
     const cardY = 2.2, cardH = 3.3, cardW = 3.85, gap = 0.35;
     for (let i = 0; i < 3; i++) {
@@ -182,10 +182,10 @@ async function main() {
       s.addText(items[i].stat, { x: x + 0.3, y: cardY + 0.35, w: cardW - 0.6, h: 0.9, fontSize: 30, bold: true, color: NAVY });
       s.addText(items[i].label, { x: x + 0.3, y: cardY + 1.3, w: cardW - 0.6, h: 1.8, fontSize: 12.5, color: "3D4759" });
     }
-    s.addText("Read this as “genuine structural shift, immature governance” — not a settled outcome.", {
-      x: 0.5, y: 5.75, w: 12.3, h: 0.5, fontSize: 14, italic: true, bold: true, color: ORANGE,
+    s.addText("Read this as a genuine structural shift with governance that's still catching up.", {
+      x: 0.5, y: 5.75, w: 12.3, h: 0.5, fontSize: 14, italic: true, color: ORANGE,
     });
-    footer(s, "Sources: Nairametrics, Punch, ICIR Nigeria, Authority News, 2025-2026 — see data/raw/petroleum/sources.md");
+    footer(s, "Sources: Nairametrics, Punch, ICIR Nigeria, Authority News, 2025-2026. See data/raw/petroleum/sources.md.");
     pageNum(s, 5);
   }
 
@@ -196,7 +196,7 @@ async function main() {
     actionTitle(s, "A textbook tariff wall (0-40%) that hasn't produced scale");
     s.addImage({ path: path.join(CHARTS, "automobiles_tariff_differential.png"), x: 0.4, y: 2.05, w: 5.9, h: 4.85, sizing: { type: "contain", w: 5.9, h: 4.85 } });
     s.addImage({ path: path.join(CHARTS, "automobiles_naddc_utilization.png"), x: 6.55, y: 1.85, w: 6.25, h: 5.15, sizing: { type: "contain", w: 6.25, h: 5.15 } });
-    footer(s, "Source: trade.gov Nigeria Import Tariffs; NADDC, April 2024 — aggregate utilization verified at 29.0% (93,950 / 323,650 units/year)");
+    footer(s, "Source: trade.gov Nigeria Import Tariffs; NADDC, April 2024. Aggregate utilization verified at 29.0% (93,950 / 323,650 units/year).");
     pageNum(s, 6);
   }
 
@@ -208,9 +208,9 @@ async function main() {
 
     await addIconBadge(s, FaBalanceScale, 0.6, 2.25, 1.1, ORANGE, WHITE);
     s.addText([
-      { text: "The revised NAIDP was approved by Federal Executive Council in May 2023 — an executive plan, not a statute", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
-      { text: "The original NAIDP's ten-year statutory term lapsed in 2024; a successor 2024-2034 framework still awaited legal drafting as of March 2025", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
-      { text: "As of October 2025, stakeholders — including NADDC's own Director-General — were still demanding passage of a “NAIDP Bill”", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
+      { text: "The revised NAIDP was approved by Federal Executive Council in May 2023. That's an executive plan, not a statute.", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
+      { text: "The original NAIDP's ten-year statutory term lapsed in 2024. A successor 2024-2034 framework still awaited legal drafting as of March 2025.", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
+      { text: "As of October 2025, stakeholders, including NADDC's own Director-General, were still demanding passage of a “NAIDP Bill”", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
       { text: "20 of 58 historically licensed assemblers had suspended operations by March 2025 (~$89.6M in stranded investment)", options: { bullet: true } },
     ], { x: 2.05, y: 2.05, w: 6.6, h: 5.0, fontSize: 14.5, color: "3D4759", valign: "top" });
 
@@ -218,8 +218,8 @@ async function main() {
     s.addText("“Nobody wants to commit serious capital to the auto industry without adequate laws to protect their investments.”", {
       x: 9.3, y: 2.6, w: 3.2, h: 2.0, fontSize: 13, italic: true, color: WHITE, valign: "top",
     });
-    s.addText("— Joseph Osanipin, NADDC Director-General, Oct 2025", { x: 9.3, y: 4.6, w: 3.2, h: 0.6, fontSize: 10.5, color: "9FB0CC" });
-    footer(s, "Sources: The Guardian Nigeria, 27 Mar 2025; Vanguard, 10 Oct 2025 — see data/raw/automobiles/sources.md");
+    s.addText("Joseph Osanipin, NADDC Director-General, Oct 2025", { x: 9.3, y: 4.6, w: 3.2, h: 0.6, fontSize: 10.5, color: "9FB0CC" });
+    footer(s, "Sources: The Guardian Nigeria, 27 Mar 2025; Vanguard, 10 Oct 2025. See data/raw/automobiles/sources.md.");
     pageNum(s, 7);
   }
 
@@ -231,11 +231,11 @@ async function main() {
     s.addImage({ path: path.join(CHARTS, "rice_production_vs_imports.png"), x: 0.5, y: 2.0, w: 7.6, h: 4.9, sizing: { type: "contain", w: 7.6, h: 4.9 } });
 
     s.addText([
-      { text: "70% combined duty + levy — among the heaviest in Nigeria's tariff schedule, roughly stable since 2013", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
+      { text: "70% combined duty and levy: among the heaviest in Nigeria's tariff schedule, roughly stable since 2013", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
       { text: "Rice was the single most-smuggled commodity through Nigerian Customs in Q1 2025: 159 cases, 135,474 bags, ₦939M", options: { bullet: true, breakLine: true, paraSpaceAfter: 14 } },
-      { text: "The 2019 land-border closure remains only partially reversed — rice stayed formally banned even after Dec 2020 reopening", options: { bullet: true } },
+      { text: "The 2019 land-border closure remains only partially reversed. Rice stayed formally banned even after the Dec 2020 reopening.", options: { bullet: true } },
     ], { x: 8.35, y: 2.1, w: 4.45, h: 4.6, fontSize: 13, color: "3D4759", valign: "top" });
-    footer(s, "Sources: USDA FAS Grain and Feed Annual, 13 Mar 2024; PRNigeria, 24 Apr 2025 — see data/raw/rice/sources.md");
+    footer(s, "Sources: USDA FAS Grain and Feed Annual, 13 Mar 2024; PRNigeria, 24 Apr 2025. See data/raw/rice/sources.md.");
     pageNum(s, 8);
   }
 
@@ -243,9 +243,9 @@ async function main() {
   {
     const s = pres.addSlide();
     eyebrow(s, "Synthesis", ORANGE);
-    actionTitle(s, "Tariff level is inversely related to substitution outcome across all 3 sectors");
+    actionTitle(s, "Tariff level runs inversely to substitution outcome across all 3 sectors");
     s.addImage({ path: path.join(CHARTS, "sector_comparison_effective_tariff.png"), x: 2.55, y: 1.95, w: 8.2, h: 4.7, sizing: { type: "contain", w: 8.2, h: 4.7 } });
-    footer(s, "Source: see data/raw/{petroleum,automobiles,rice}/sources.md for underlying citations");
+    footer(s, "Source: see data/raw/{petroleum,automobiles,rice}/sources.md for underlying citations.");
     pageNum(s, 9);
   }
 
@@ -253,26 +253,26 @@ async function main() {
   {
     const s = pres.addSlide();
     eyebrow(s, "The AfCFTA question", GREEN);
-    actionTitle(s, "Commitment without a clear test — well-evidenced only for rice");
+    actionTitle(s, "Commitment without a clear test. Well-evidenced only for rice.");
 
     await addIconBadge(s, FaBalanceScale, 0.6, 2.2, 1.0, GREEN, WHITE);
-    s.addText("Clear finding", { x: 2.0, y: 2.15, w: 5.0, h: 0.4, fontSize: 15, bold: true, color: GREEN });
-    s.addText("Rice sits on Nigeria's AfCFTA exclusion / long-timeline “sensitive” list, alongside flour, sugar, and cement — consistent with decades of food-security-driven protection.", {
+    s.addText("Clear finding", { x: 2.0, y: 2.15, w: 5.0, h: 0.4, fontSize: 15, color: GREEN });
+    s.addText("Rice sits on Nigeria's AfCFTA exclusion or long-timeline “sensitive” list, alongside flour, sugar, and cement. That's consistent with decades of food-security-driven protection.", {
       x: 2.0, y: 2.6, w: 5.1, h: 1.5, fontSize: 13, color: "3D4759", valign: "top",
     });
 
     await addIconBadge(s, FaDatabase, 7.1, 2.2, 1.0, GRAY, WHITE);
-    s.addText("Important non-finding", { x: 8.5, y: 2.15, w: 4.3, h: 0.4, fontSize: 15, bold: true, color: GRAY });
-    s.addText("No source — primary or secondary — states where refined petroleum or automobiles sit on Nigeria's AfCFTA schedule. A clean 3-sector AfCFTA comparison cannot be made with confidence.", {
+    s.addText("Important non-finding", { x: 8.5, y: 2.15, w: 4.3, h: 0.4, fontSize: 15, color: GRAY });
+    s.addText("No source, primary or secondary, states where refined petroleum or automobiles sit on Nigeria's AfCFTA schedule. A clean 3-sector AfCFTA comparison can't be made with confidence.", {
       x: 8.5, y: 2.6, w: 4.3, h: 1.9, fontSize: 13, color: "3D4759", valign: "top",
     });
 
     s.addShape("line", { x: 0.5, y: 4.35, w: 12.3, h: 0, line: { color: "E2E5EA", width: 1 } });
 
-    s.addText("Nigeria gazetted its AfCFTA tariff schedule only in 2025 — six years after signing. Within the 2023-2025 window, unilateral tools (subsidy policy, import bans, forex allocation) are doing far more work shaping sector outcomes than AfCFTA commitments.", {
+    s.addText("Nigeria gazetted its AfCFTA tariff schedule only in 2025, six years after signing. Within the 2023-2025 window, unilateral tools (subsidy policy, import bans, forex allocation) are doing far more work shaping sector outcomes than AfCFTA commitments.", {
       x: 0.5, y: 4.7, w: 12.3, h: 1.3, fontSize: 15, italic: true, color: NAVY, valign: "top",
     });
-    footer(s, "Sources: Boysen (2024), The World Economy; WTO Trade Policy Review — Nigeria, Nov 2024; ITRC, 16 Apr 2025 — see data/raw/afcfta/sources.md");
+    footer(s, "Sources: Boysen (2024), The World Economy; WTO Trade Policy Review, Nigeria, Nov 2024; ITRC, 16 Apr 2025. See data/raw/afcfta/sources.md.");
     pageNum(s, 10);
   }
 
@@ -284,15 +284,15 @@ async function main() {
     s.addText("Three takeaways for reading Nigeria as a market", { x: 0.5, y: 0.7, w: 12.3, h: 0.8, fontSize: 25, bold: true, color: WHITE, fontFace: "Calibri" });
 
     const items = [
-      { icon: FaChartLine, title: "Don't read tariff schedules as a proxy for policy seriousness", body: "The sector with almost no tariff is undergoing the most real structural change; the sector with the highest tariff has the weakest enforcement outcome." },
+      { icon: FaChartLine, title: "Don't read tariff schedules as a proxy for policy seriousness", body: "The sector with almost no tariff is undergoing the most real structural change. The sector with the highest tariff has the weakest enforcement outcome." },
       { icon: FaLightbulb, title: "Look for a scaled domestic supply response as the leading indicator", body: "A single, well-capitalized asset (Dangote) displaced more imports in 18 months than a decade of auto tariffs achieved for local assembly." },
-      { icon: FaBalanceScale, title: "Treat AfCFTA as immature, not decisive, through 2025-2026", body: "The schedule was only gazetted in 2025. Nigeria's unilateral tools remain the dominant lever for sector-level forecasting on this horizon." },
+      { icon: FaBalanceScale, title: "Treat AfCFTA as immature through 2025-2026, not decisive yet", body: "The schedule was only gazetted in 2025. Nigeria's unilateral tools remain the dominant lever for sector-level forecasting on this horizon." },
     ];
     const cardY = 2.15, cardH = 4.2, cardW = 3.85, gap = 0.35;
     for (let i = 0; i < 3; i++) {
       const x = 0.5 + i * (cardW + gap);
       await addIconBadge(s, items[i].icon, x + 0.3, cardY + 0.3, 0.75, ORANGE, NAVY);
-      s.addText(items[i].title, { x: x + 0.05, y: cardY + 1.25, w: cardW - 0.3, h: 1.1, fontSize: 14.5, bold: true, color: WHITE, valign: "top" });
+      s.addText(items[i].title, { x: x + 0.05, y: cardY + 1.25, w: cardW - 0.3, h: 1.1, fontSize: 14.5, color: WHITE, valign: "top" });
       s.addText(items[i].body, { x: x + 0.05, y: cardY + 2.4, w: cardW - 0.3, h: 1.7, fontSize: 12.5, color: "CBD3E0", valign: "top" });
     }
     pageNum(s, 11);
@@ -311,7 +311,7 @@ async function main() {
       { text: "Analysis & chart-generation code:  models/{petroleum,automobiles,rice,sector_comparison}_analysis.py", options: { bullet: true, breakLine: true, paraSpaceAfter: 16 } },
       { text: "Full paper and investment memo:  paper/nigeria-tariff-policy-paper.md, memo/nigeria-tariff-investment-memo.md", options: { bullet: true } },
     ], { x: 2.05, y: 2.3, w: 10.2, h: 4.0, fontSize: 15, color: "3D4759", valign: "top" });
-    footer(s, "Every figure in this deck traces to a named, dated source. Where sources conflicted, both figures are presented — see appendix notes in the paper.");
+    footer(s, "Every figure in this deck traces to a named, dated source. Where sources conflicted, both figures are presented. See appendix notes in the paper.");
     pageNum(s, 12);
   }
 

@@ -2,7 +2,7 @@ const ITEMS = [
   {
     icon: '📈',
     title: "Don't read tariff schedules as a proxy for policy seriousness",
-    body: 'The sector with almost no tariff is undergoing the most real structural change; the sector with the highest tariff has the weakest enforcement outcome.',
+    body: 'The sector with almost no tariff is undergoing the most real structural change. The sector with the highest tariff has the weakest enforcement outcome.',
   },
   {
     icon: '💡',
@@ -11,7 +11,7 @@ const ITEMS = [
   },
   {
     icon: '⚖️',
-    title: 'Treat AfCFTA as immature, not decisive, through 2025-2026',
+    title: 'Treat AfCFTA as immature through 2025-2026, not decisive yet',
     body: "The schedule was only gazetted in 2025. Nigeria's unilateral tools remain the dominant lever for sector-level forecasting on this horizon.",
   },
 ]

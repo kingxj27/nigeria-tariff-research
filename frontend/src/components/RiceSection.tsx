@@ -32,13 +32,13 @@ export default function RiceSection() {
         </div>
         <ul className="flex flex-col gap-5 text-sm text-slate-700">
           <li className="border-l-2 border-green pl-4">
-            <strong>70%</strong> combined duty + levy — among the heaviest in Nigeria's tariff schedule, roughly stable since 2013
+            70% combined duty and levy: among the heaviest in Nigeria's tariff schedule, roughly stable since 2013
           </li>
           <li className="border-l-2 border-green pl-4">
-            Rice was the single most-smuggled commodity through Nigerian Customs in Q1 2025: <strong>159 cases, 135,474 bags, ₦939M</strong>
+            Rice was the single most-smuggled commodity through Nigerian Customs in Q1 2025: 159 cases, 135,474 bags, ₦939M
           </li>
           <li className="border-l-2 border-green pl-4">
-            The 2019 land-border closure remains only partially reversed — rice stayed formally banned even after the Dec 2020 reopening
+            The 2019 land-border closure remains only partially reversed. Rice stayed formally banned even after the Dec 2020 reopening.
           </li>
         </ul>
       </div>

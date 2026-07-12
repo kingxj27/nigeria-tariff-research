@@ -19,10 +19,10 @@ export default function SectorComparisonChart() {
       <div className="max-w-6xl mx-auto">
         <p className="text-orange font-semibold tracking-widest text-sm mb-3">SYNTHESIS</p>
         <h2 className="text-2xl md:text-3xl font-bold text-navy mb-2 max-w-4xl">
-          Tariff level is inversely related to substitution outcome across all 3 sectors
+          Tariff level runs inversely to substitution outcome across all 3 sectors
         </h2>
         <p className="text-slate-600 mb-8">
-          Rice carries the heaviest tariff wall; petroleum has almost none — policy relies on other tools instead
+          Rice carries the heaviest tariff wall. Petroleum has almost none, and policy relies on other tools instead.
         </p>
         <div className="bg-white rounded-xl p-6 shadow-sm" style={{ height: 380 }}>
           <ResponsiveContainer width="100%" height="100%">

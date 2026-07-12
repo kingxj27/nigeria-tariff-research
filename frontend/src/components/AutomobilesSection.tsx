@@ -42,7 +42,7 @@ export default function AutomobilesSection() {
 
   return (
     <section className="px-6 md:px-16 py-16 md:py-20 max-w-6xl mx-auto bg-lightgray/40">
-      <SectionHeading eyebrow="Case II · Automobiles" title="A textbook tariff wall (0-40%) that hasn't produced scale" color="#D9822B" />
+      <SectionHeading eyebrow="Case II · Automobiles" title="A textbook tariff wall (0-40%) hasn't produced scale" color="#D9822B" />
 
       <div className="grid md:grid-cols-2 gap-8">
         <div className="bg-white rounded-xl p-6 shadow-sm" style={{ height: 320 }}>
@@ -103,8 +103,8 @@ export default function AutomobilesSection() {
       </div>
 
       <p className="text-sm text-slate-600 mt-8 max-w-3xl">
-        A primary NADDC document (April 2024) covering all 34 licensed assemblers shows a verified <strong>29.0%</strong> aggregate
-        capacity utilization (93,950 actual / 323,650 installed units/year) — despite a tariff wall built specifically to make local
+        A primary NADDC document (April 2024) covering all 34 licensed assemblers shows a verified 29.0% aggregate
+        capacity utilization (93,950 actual / 323,650 installed units/year), despite a tariff wall built specifically to make local
         assembly the cheaper path to market.
       </p>
       <p className="text-xs text-slate-400 mt-4">
@@ -116,10 +116,10 @@ export default function AutomobilesSection() {
           <h3 className="text-lg font-bold text-navy mb-4">The policy has never had the force of law</h3>
           <ul className="flex flex-col gap-4 text-sm text-slate-700">
             <li className="border-l-2 border-orange pl-4">
-              The revised NAIDP was approved by Federal Executive Council in May 2023 — an executive plan, not a statute
+              The revised NAIDP was approved by Federal Executive Council in May 2023. That's an executive plan, not a statute.
             </li>
             <li className="border-l-2 border-orange pl-4">
-              The original NAIDP's ten-year statutory term lapsed in 2024; a successor 2024-2034 framework still awaited legal drafting as of March 2025
+              The original NAIDP's ten-year statutory term lapsed in 2024. A successor 2024-2034 framework still awaited legal drafting as of March 2025.
             </li>
             <li className="border-l-2 border-orange pl-4">
               20 of 58 historically licensed assemblers had suspended operations by March 2025 (~$89.6M in stranded investment)
@@ -130,7 +130,7 @@ export default function AutomobilesSection() {
           <p className="italic text-sm leading-relaxed">
             "Nobody wants to commit serious capital to the auto industry without adequate laws to protect their investments."
           </p>
-          <p className="text-xs text-slate-400 mt-4">— Joseph Osanipin, NADDC Director-General, Oct 2025</p>
+          <p className="text-xs text-slate-400 mt-4">Joseph Osanipin, NADDC Director-General, Oct 2025</p>
         </div>
       </div>
     </section>

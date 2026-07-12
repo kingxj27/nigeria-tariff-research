@@ -10,8 +10,8 @@ export default function Footer() {
           <li>Full paper and memo: <code className="text-xs bg-lightgray px-1.5 py-0.5 rounded">paper/</code>, <code className="text-xs bg-lightgray px-1.5 py-0.5 rounded">memo/</code></li>
         </ul>
         <p className="mt-4 text-xs">
-          Every figure traces to a named, dated source. Where sources conflicted, both figures are presented rather
-          than silently reconciled.
+          Every figure traces to a named, dated source. Where sources conflicted, both figures are presented
+          instead of silently reconciled.
         </p>
       </div>
     </footer>

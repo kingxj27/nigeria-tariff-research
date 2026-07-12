@@ -19,8 +19,8 @@ export default function GoverningThought() {
         GOVERNING THOUGHT
       </p>
       <h2 className="text-2xl md:text-3xl font-bold text-navy max-w-4xl mb-12">
-        Tariff level does not predict import-substitution outcome — a credible
-        domestic supply response does
+        Tariff level doesn't predict import-substitution outcome. A credible
+        domestic supply response does.
       </h2>
       <div className="grid md:grid-cols-3 gap-6">
         {sectorComparison.map((row) => (
@@ -42,7 +42,7 @@ export default function GoverningThought() {
         ))}
       </div>
       <p className="mt-10 text-navy italic font-medium border-t border-slate-200 pt-6">
-        The variable that predicts outcomes is not the tariff line — it's whether
+        The variable that predicts outcomes isn't the tariff line. It's whether
         a credible domestic supply response exists behind it.
       </p>
     </section>

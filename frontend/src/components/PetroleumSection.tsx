@@ -12,7 +12,7 @@ export default function PetroleumSection() {
 
   return (
     <section className="px-6 md:px-16 py-16 md:py-20 max-w-6xl mx-auto">
-      <SectionHeading eyebrow="Case I · Refined petroleum" title="Near-zero tariff, fastest substitution — Dangote Refinery is doing what policy didn't" color="#1B2A4A" />
+      <SectionHeading eyebrow="Case I · Refined petroleum" title="Near-zero tariff, fastest substitution. Dangote Refinery is doing what policy didn't." color="#1B2A4A" />
       <div className="grid md:grid-cols-3 gap-8 items-start">
         <div className="md:col-span-2 bg-lightgray rounded-xl p-6" style={{ height: 340 }}>
           <ResponsiveContainer width="100%" height="100%">
@@ -29,18 +29,18 @@ export default function PetroleumSection() {
             </BarChart>
           </ResponsiveContainer>
           <p className="text-xs text-slate-400 mt-2">
-            PMS (petrol) import bill, 2020-2025 — orange = 2024's currency-driven spike, green = 2025's Dangote-driven decline
+            PMS (petrol) import bill, 2020-2025. Orange marks 2024's currency-driven spike, green marks 2025's Dangote-driven decline.
           </p>
         </div>
         <ul className="flex flex-col gap-5 text-sm text-slate-700">
           <li className="border-l-2 border-navy pl-4">
-            Petrol import bill fell <strong>42%</strong> in 2025 (₦15.42tn → ₦8.96tn) as Dangote reached ~85% utilization of its 650,000 bpd refinery
+            Petrol import bill fell 42% in 2025 (₦15.42tn to ₦8.96tn) as Dangote reached ~85% utilization of its 650,000 bpd refinery
           </li>
           <li className="border-l-2 border-orange pl-4">
-            The only dedicated petroleum tariff of the period — a <strong>15% duty</strong> — was approved 21 Oct 2025 and suspended 13 Nov 2025, before ever taking effect
+            The only dedicated petroleum tariff of the period, a 15% duty, was approved 21 Oct 2025 and suspended 13 Nov 2025, before ever taking effect
           </li>
           <li className="border-l-2 border-green pl-4">
-            2024's naira-value spike (+105%) is substantially a currency story: the naira depreciated <strong>40.9%</strong> that year, not a volume story
+            2024's naira-value spike (+105%) is mostly a currency story. The naira depreciated 40.9% that year.
           </li>
         </ul>
       </div>
@@ -53,7 +53,7 @@ export default function PetroleumSection() {
           The substitution mechanism is real, but institutionally fragile
         </h3>
         <p className="text-sm text-slate-500 mb-6">
-          Read this as "genuine structural shift, immature governance" — not a settled outcome.
+          Read this as a genuine structural shift with governance that's still catching up.
         </p>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-lightgray rounded-xl p-6">
@@ -71,7 +71,7 @@ export default function PetroleumSection() {
           <div className="bg-lightgray rounded-xl p-6">
             <p className="text-3xl font-bold text-navy mb-2">~79.5M barrel</p>
             <p className="text-sm text-slate-600">
-              reported NNPC supply shortfall to Dangote, Oct 2025-mid 2026 — and an active Dangote lawsuit disputing import-license enforcement
+              reported NNPC supply shortfall to Dangote, Oct 2025-mid 2026. Dangote also has an active lawsuit disputing import-license enforcement.
             </p>
           </div>
         </div>

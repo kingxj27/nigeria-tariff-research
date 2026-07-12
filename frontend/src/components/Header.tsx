@@ -10,7 +10,7 @@ export default function Header() {
         </h1>
         <p className="text-lg md:text-xl text-slate-300 italic max-w-3xl">
           Three sectors, three outcomes: refined petroleum, automobiles, and rice
-          under Nigeria's tariff regime — read against its AfCFTA commitments.
+          under Nigeria's tariff regime, read against its AfCFTA commitments.
         </p>
         <p className="text-slate-400 text-sm mt-10">
           Comparative case study &nbsp;•&nbsp; July 2026

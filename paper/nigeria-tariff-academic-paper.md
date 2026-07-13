@@ -128,6 +128,12 @@ The ordering in Table 1 is the inverse of what a simple tariff-as-protection the
 
 *Figure 7.* Effective tariff rate by sector, 2025, ordered against the substitution outcomes in Table 1. Source: see `data/raw/{petroleum,automobiles,rice}/sources.md`.
 
+Figure 8 restates this relationship as a simple two-variable framework, plotting each sector against tariff level on one axis and domestic supply-response credibility on the other. Credibility here is a qualitative judgment, not a precision score. It is grounded directly in the evidence above: petroleum's single, well-capitalized refining asset financed independently of tariff policy; automobiles' 34 individually under-scaled assemblers with a 29.0% aggregate utilization; and rice's fragmented milling base operating under porous enforcement. Plotted this way, the three cases separate cleanly along the vertical axis and not along the horizontal one. That is the paper's central claim in visual form.
+
+![Figure 8: The variable that predicts substitution is the vertical axis, not the horizontal one](../outputs/charts/framework_matrix.png)
+
+*Figure 8.* Tariff level versus domestic supply-response credibility, by sector. Credibility positioning is qualitative and grounded in the evidence cited in this section. Automobiles is plotted at the midpoint of its 35-40% tariff range.
+
 ---
 
 ## 5. Discussion

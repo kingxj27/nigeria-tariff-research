@@ -249,7 +249,17 @@ async function main() {
     pageNum(s, 9);
   }
 
-  // ---------- Slide 10: AfCFTA ----------
+  // ---------- Slide 10: The framework ----------
+  {
+    const s = pres.addSlide();
+    eyebrow(s, "The framework", ORANGE);
+    actionTitle(s, "The vertical axis predicts substitution. The horizontal one doesn't.");
+    s.addImage({ path: path.join(CHARTS, "framework_matrix.png"), x: 2.35, y: 1.85, w: 8.6, h: 5.1, sizing: { type: "contain", w: 8.6, h: 5.1 } });
+    footer(s, "Credibility positioning is qualitative, grounded in the evidence in Sections 4-9. Automobiles plotted at the midpoint of its 35-40% range.");
+    pageNum(s, 10);
+  }
+
+  // ---------- Slide 11: AfCFTA ----------
   {
     const s = pres.addSlide();
     eyebrow(s, "The AfCFTA question", GREEN);
@@ -273,10 +283,10 @@ async function main() {
       x: 0.5, y: 4.7, w: 12.3, h: 1.3, fontSize: 15, italic: true, color: NAVY, valign: "top",
     });
     footer(s, "Sources: Boysen (2024), The World Economy; WTO Trade Policy Review, Nigeria, Nov 2024; ITRC, 16 Apr 2025. See data/raw/afcfta/sources.md.");
-    pageNum(s, 10);
+    pageNum(s, 11);
   }
 
-  // ---------- Slide 11: Implications ----------
+  // ---------- Slide 12: Implications ----------
   {
     const s = pres.addSlide();
     s.background = { color: NAVY };
@@ -295,10 +305,10 @@ async function main() {
       s.addText(items[i].title, { x: x + 0.05, y: cardY + 1.25, w: cardW - 0.3, h: 1.1, fontSize: 14.5, color: WHITE, valign: "top" });
       s.addText(items[i].body, { x: x + 0.05, y: cardY + 2.4, w: cardW - 0.3, h: 1.7, fontSize: 12.5, color: "CBD3E0", valign: "top" });
     }
-    pageNum(s, 11);
+    pageNum(s, 12);
   }
 
-  // ---------- Slide 12: Sources / appendix ----------
+  // ---------- Slide 13: Sources / appendix ----------
   {
     const s = pres.addSlide();
     eyebrow(s, "Appendix", GRAY);
@@ -312,7 +322,7 @@ async function main() {
       { text: "Full paper and investment memo:  paper/nigeria-tariff-policy-paper.md, memo/nigeria-tariff-investment-memo.md", options: { bullet: true } },
     ], { x: 2.05, y: 2.3, w: 10.2, h: 4.0, fontSize: 15, color: "3D4759", valign: "top" });
     footer(s, "Every figure in this deck traces to a named, dated source. Where sources conflicted, both figures are presented. See appendix notes in the paper.");
-    pageNum(s, 12);
+    pageNum(s, 13);
   }
 
   function eyebrowDark(slide, text) {

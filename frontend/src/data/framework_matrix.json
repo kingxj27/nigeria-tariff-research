@@ -1,0 +1,26 @@
+[
+  {
+    "sector": "Refined petroleum",
+    "tariff_pct": 0.5,
+    "credibility_band": "High",
+    "credibility_y": 85,
+    "rationale": "Single well-capitalized asset (Dangote Refinery), financed against global capital markets and crude-supply arrangements independent of tariff policy. Reached ~85% of nameplate capacity by mid-2025.",
+    "outcome_label": "Fast substitution"
+  },
+  {
+    "sector": "Automobiles",
+    "tariff_pct": 37.5,
+    "credibility_band": "Low",
+    "credibility_y": 25,
+    "rationale": "34 licensed assemblers, individually under-scaled. Aggregate capacity utilization verified at 29.0%, with a wide spread (6.5% to 70% across firms) showing no consistent scale-up.",
+    "outcome_label": "Weak substitution"
+  },
+  {
+    "sector": "Rice/agriculture",
+    "tariff_pct": 70.0,
+    "credibility_band": "Low",
+    "credibility_y": 18,
+    "rationale": "Fragmented milling base with porous border enforcement. Rice was Nigeria's single most-smuggled commodity in Q1 2025 despite the tariff wall.",
+    "outcome_label": "Weakest substitution"
+  }
+]

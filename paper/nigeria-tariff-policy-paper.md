@@ -106,6 +106,10 @@ Putting the three sectors side by side makes the core finding legible in a singl
 
 The relationship between tariff level and outcome is, if anything, inverse to what a simple protection thesis would predict. Petroleum has the lowest tariff and the strongest substitution result. Rice has the highest tariff and the weakest enforcement result. The variable that actually seems to matter is **whether a credible, scaled domestic supply response exists independent of the tariff** — Dangote's refinery is a single, well-capitalized actor operating at genuine industrial scale; Nigeria's auto assemblers are numerous but individually under-scaled; rice milling capacity, while real (268 mills nationwide as of May 2025), is fragmented and — per November 2025 reporting — running only partially at several of the largest operations due to high paddy and energy costs.
 
+The framework below makes this concrete: plot each sector on tariff level and on domestic supply-response credibility, and the three cases separate cleanly along the credibility axis, not the tariff axis.
+
+![The variable that predicts substitution is the vertical axis, not the horizontal one](../outputs/charts/framework_matrix.png)
+
 ## 7. The AfCFTA Question: Commitment Without a Clear Test
 
 Nigeria signed the AfCFTA framework in July 2019, but only gazetted its actual tariff concession schedule in 2025 — six years later, and after considerable internal reluctance driven by manufacturer and labor concerns about the country becoming, in the words of pre-signing domestic commentary, "a dumping ground." Nigeria joined the Guided Trade Initiative (the mechanism for actual preferential trading, as distinct from the schedule itself) in the first half of 2024 and was reported actively trading under it by February 2025.

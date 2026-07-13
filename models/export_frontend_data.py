@@ -27,6 +27,7 @@ FILES = [
     "afcfta_category_framework",
     "afcfta_sector_classification",
     "sector_comparison",
+    "framework_matrix",
 ]
 
 for name in FILES:

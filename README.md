@@ -17,7 +17,8 @@ The answer is no. The least-protected sector (petroleum, ~0.5% effective tariff)
 | Academic paper | [`paper/nigeria-tariff-academic-paper.md`](paper/nigeria-tariff-academic-paper.md) ([PDF](paper/nigeria-tariff-academic-paper.pdf)) | Literature review, formal methodology, APA references |
 | Policy paper | [`paper/nigeria-tariff-policy-paper.md`](paper/nigeria-tariff-policy-paper.md) | Consulting-style case study |
 | Investment memo | [`memo/nigeria-tariff-investment-memo.md`](memo/nigeria-tariff-investment-memo.md) ([PDF](memo/nigeria-tariff-investment-memo.pdf)) | Capital-allocation read per sector |
-| Slide deck | [`deck/nigeria-tariff-policy-deck.pptx`](deck/nigeria-tariff-policy-deck.pptx) | 12-slide condensed narrative |
+| Slide deck | [`deck/nigeria-tariff-policy-deck.pptx`](deck/nigeria-tariff-policy-deck.pptx) | 13-slide condensed narrative |
+| One-pager | [`paper/nigeria-tariff-one-pager.pdf`](paper/nigeria-tariff-one-pager.pdf) | Single-page leave-behind: framework, 3 findings, implication |
 | Interactive dashboard | [Live site](https://frontend-iota-woad-42.vercel.app) / [`frontend/`](frontend/) source | Live charts, built with React + Recharts |
 | Video walkthrough script | [`docs/loom-walkthrough-script.md`](docs/loom-walkthrough-script.md) | ~3-minute recorded overview |
 
